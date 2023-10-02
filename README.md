@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img  src="grid-snake.svg" alt="snake" />
 </div>
 
-🌍  I am a Web Developer based in Agadir, Morocco.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&center=true&vCenter=true&width=435&lines=Hi+My+Name+Is+OUSHI33R;I+Am+A+Web+Developer+;Based+In+Agadir%2C+Morocco)](https://git.io/typing-svg)
 <br/>
 
 ### Skills
