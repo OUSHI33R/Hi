@@ -22,6 +22,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://oushiar.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Your%20Portfolio-brightgreen?style=for-the-badge" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-My%20Portfolio-brightgreen?style=for-the-badge" alt="Portfolio Badge"/>
   </a>
 </div>
